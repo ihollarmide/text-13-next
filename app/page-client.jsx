@@ -2,7 +2,7 @@
 export default function PageClient() {
   return (
     <>
-      <p>Welcome tho this App</p>
+      <p>Welcome to this App</p>
     </>
   );
 }
